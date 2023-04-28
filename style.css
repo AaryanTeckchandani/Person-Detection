@@ -1,0 +1,17 @@
+body{
+    color:white;
+    background : olivedrab;
+}
+.heading{
+    width:80%;
+    font-size:22px;
+
+}
+.nameOfPerson, #resultPersonName ,#resultAccuracy {
+    color:lightpink;
+}
+#camera{
+    border:2px dashed lightskyblue;
+    width:350px;
+    height:300px;
+}
